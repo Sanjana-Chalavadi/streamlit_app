@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title('My New Healthy Diner')
 
-streamlit.header('Breakfast Menu for Monday')
-streamlit.text('Very Berry Oatmeal')
-streamlit.text('Avocado, Spinach & Banana Smoothie')
-streamlit.text('Scrambled Eggs')              
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')     
